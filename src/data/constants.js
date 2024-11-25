@@ -198,7 +198,7 @@ export const projects = [
     id: 1,
     title: "Table Favorites",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "Web application of an employee table and being able to save those employees in a favorites list using Clean Architecture and good practices.",
     image: FavoriteTable,
     tags: [
       "React Js",
