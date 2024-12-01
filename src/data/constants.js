@@ -198,7 +198,7 @@ export const projects = [
     id: 1,
     title: "Apple Website",
     description:
-      "Web application of an employee table and being able to save those employees in a favorites list using Clean Architecture and good practices.",
+      "Web application for training design skills and learn to use animations and handle 3D objects",
     image: FavoriteTable,
     tags: [
       "Vite",
