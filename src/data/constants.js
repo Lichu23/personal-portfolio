@@ -196,6 +196,23 @@ export const projects = [
   },
   {
     id: 1,
+    title: "Apple Website",
+    description:
+      "Web application of an employee table and being able to save those employees in a favorites list using Clean Architecture and good practices.",
+    image: FavoriteTable,
+    tags: [
+      "Vite",
+      "React Js",
+      "Tailwind ",
+      "Threejs ",
+      "Gsap ",
+    ],
+    category: "web app",
+    github: "https://github.com/Lichu23/Apple-Website",
+    webapp: "https://apple-website-iota-ten.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Table Favorites",
     description:
       "Web application of an employee table and being able to save those employees in a favorites list using Clean Architecture and good practices.",
