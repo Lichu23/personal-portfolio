@@ -1,6 +1,7 @@
 import ChatGPTClone from "../images/ChatGPTClone.png";
 import FavoriteTable from "../images/FavoriteTablePortada.png";
 import ZoomClone from "../images/ZoomClone.png";
+import iPhoneImage from "../images/iPhone-website-Image.png";
 export const Bio = {
   name: "Lisandro Arenas",
   roles: ["Frontend Developer", "Programmer"],
@@ -199,7 +200,7 @@ export const projects = [
     title: "Apple Website",
     description:
       "Web application for training design skills and learn to use animations and handle 3D objects",
-    image: FavoriteTable,
+    image: iPhoneImage,
     tags: [
       "Vite",
       "React Js",

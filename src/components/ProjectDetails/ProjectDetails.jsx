@@ -26,7 +26,7 @@ height: min-content;
 background-color: ${({ theme }) => theme.card};
 color: ${({ theme }) => theme.text_primary};
 padding: 20px;
-display: flex;
+display: grid;
 flex-direction: column;
 position: relative;
 `;
