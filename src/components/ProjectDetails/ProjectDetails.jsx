@@ -2,7 +2,8 @@ import { CloseRounded, GitHub, LinkedIn } from '@mui/icons-material';
 import { Modal } from '@mui/material';
 import React from 'react'
 import styled from 'styled-components'
-import ImageChatGPT from "../../images/ChatGPTClone.png"
+
+
 const Container = styled.div`
 width: 100%;
 height: 100%;
@@ -26,7 +27,7 @@ height: min-content;
 background-color: ${({ theme }) => theme.card};
 color: ${({ theme }) => theme.text_primary};
 padding: 20px;
-display: grid;
+display: flex;
 flex-direction: column;
 position: relative;
 `;
