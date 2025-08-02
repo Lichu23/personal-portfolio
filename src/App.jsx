@@ -2,7 +2,6 @@ import { useState } from "react";
 import { BrowserRouter as Router } from 'react-router-dom';
 import styled, { ThemeProvider } from "styled-components";
 import "./App.css";
-import IndexContact from "./components/Contact/IndexContact";
 import IndexEducation from "./components/Education/IndexEducation";
 import Experience from "./components/Experience/Experience";
 import Footer from "./components/Footer/Footer";

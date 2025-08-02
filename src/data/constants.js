@@ -1,5 +1,6 @@
 import ChatGPTClone from "../images/ChatGPTClone.png";
 import FavoriteTable from "../images/FavoriteTablePortada.png";
+import ReservationApp from "../images/Reservation-app.png";
 import ZoomClone from "../images/ZoomClone.png";
 import iPhoneImage from "../images/iPhone-website-Image.png";
 export const Bio = {
@@ -176,6 +177,25 @@ export const projects = [
     webapp: "https://video-conferencing-app-liard.vercel.app",
   },
   {
+    id: 10,
+    title: "Hair Salon Booking Web App",
+    description:
+      "Web platform for hair salons and barbershops. Automate bookings 24/7 with Google Calendar and personalized emails, offering modern and professional appointment management.",
+    image: ReservationApp,
+    tags: [
+      "React Js",
+      "Typescript",
+      "Shadcn",
+      "Nextjs",
+      "Resend",
+      "Google Calendar APIGoogle",
+      "react-hook-form",
+    ],
+    category: "web app",
+    github: "https://github.com/Lichu23/barber-shop",
+    webapp: "https://www.lichu.org/",
+  },
+  {
     id: 0,
     title: "Chat GPT Clone",
     description:
@@ -201,13 +221,7 @@ export const projects = [
     description:
       "Web application for training design skills and learn to use animations and handle 3D objects",
     image: iPhoneImage,
-    tags: [
-      "Vite",
-      "React Js",
-      "Tailwind ",
-      "Threejs ",
-      "Gsap ",
-    ],
+    tags: ["Vite", "React Js", "Tailwind ", "Threejs ", "Gsap "],
     category: "web app",
     github: "https://github.com/Lichu23/Apple-Website",
     webapp: "https://apple-website-iota-ten.vercel.app/",
@@ -231,6 +245,7 @@ export const projects = [
     github: "https://github.com/Lichu23/FavoriteTable",
     webapp: "https://favorite-table-xi.vercel.app/",
   },
+  
 ];
 
 export const TimeLineData = [
