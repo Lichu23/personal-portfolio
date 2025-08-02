@@ -1,6 +1,6 @@
 import ChatGPTClone from "../images/ChatGPTClone.png";
 import FavoriteTable from "../images/FavoriteTablePortada.png";
-import ReservationApp from "../images/Reservation-app.png";
+import ReservationApp from "../images/Reservation-App.png";
 import ZoomClone from "../images/ZoomClone.png";
 import iPhoneImage from "../images/iPhone-website-Image.png";
 export const Bio = {
